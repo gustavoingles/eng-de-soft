@@ -1,0 +1,40 @@
+
+
+body {
+    height: 100%;
+    background-image: linear-gradient(to right, #e25242, #c22817, #8E180B, #721409, #560F07, #3A0A05,#350905 ,#2c0404, #310805, #3A0A05, #560F07, #721409, #8E180B, #c22817, #e25242);
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+}
+
+.div2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.but-entar {
+    background-color: #FFA500;
+    font-size: 18px;
+    border-radius: 25px;
+    cursor: pointer;
+    height: 44px;
+    width: 200px;
+    margin-top: 500px;    
+}
+
+.names {
+    margin-top: 500px;
+}
+.inputs {
+    height: 35px;
+    width: 200px;
+}
+
+.nascimento {
+    margin-top: 200px;
+}
+
+
